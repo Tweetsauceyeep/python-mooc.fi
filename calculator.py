@@ -1,8 +1,8 @@
 # Calculator Example
 # Date: August 3, 2023
 
-number1 = int(input("first number "))
-number2 = int(input("second number "))
+number1 = float(input("first number "))
+number2 = float(input("second number "))
 operation = input("operation ")
 
 if operation == "add":
