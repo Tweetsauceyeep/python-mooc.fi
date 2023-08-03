@@ -18,7 +18,7 @@ def main():
 
 # skipped ahead my solution:
 def square(num):
-    return num * num
+    return num ** 2
 
 # wow i was right im a god
 main()
