@@ -1,3 +1,7 @@
+Date Started: August 3, 2023
+
 Some examples for the 
 mooc.fi python course
-i ended up doing CS50P instead probably
+
+- try to commit after you finish any simple exercise 
+- no matter how ez
