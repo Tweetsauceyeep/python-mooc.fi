@@ -1,6 +1,6 @@
 age = int(input("age"))
 
-if age > 18: 
+if age >= 18: 
     print("You are of age!")
 
 else:
