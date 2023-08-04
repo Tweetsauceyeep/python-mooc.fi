@@ -16,3 +16,18 @@ if temperature_c < 0:
 
 else: 
     print(f"{temperature_f} degrees Fahrenheit equals {temperature_c} degrees Celsius")
+
+
+# There is a way to do it without like da else statement im just dumb
+# temperature_f = int(input("Whats the temperature? "))
+
+# temperature_c = 5/9 * (temperature_f-32)
+
+
+# if temperature_c < 0:
+#     print(f"{temperature_f} degrees Fahrenheit equals {temperature_c} degrees Celsius")
+#     print("Brr! It's cold in here")
+
+# else: 
+#     print(f"{temperature_f} degrees Fahrenheit equals {temperature_c} degrees Celsius")
+
